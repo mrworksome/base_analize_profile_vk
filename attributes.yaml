@@ -1,0 +1,87 @@
+static_attributes:
+  - "sex"
+  - "city"
+  - "country"
+  - "graduation"
+  - "hometown"
+  - "university_name"
+  - "education_form"
+  - "education_status"
+  - "relation"
+list_parse_attributes:
+  - "interests"
+  - "activities"
+  - "movies"
+  - "tv"
+  - "games"
+  - "books"
+  - "about"
+stop_words:
+  - 'кредит'
+  - 'онлайн'
+  - 'заявка'
+  - 'банк'
+  - 'история'
+  - 'истории'
+  - 'кредит'
+  - 'онлайн'
+  - 'заявка'
+  - 'займов'
+  - 'карту'
+  - 'карта'
+  - 'займ'
+  - 'рассрочка'
+  - 'потребительский'
+  - 'сбербанк'
+  - 'срочно'
+  - 'бесплатно'
+  - 'взять'
+  - 'займы'
+  - 'хоум'
+  - 'связной'
+  - 'брокер'
+  - 'залог'
+  - 'ссуда'
+  - 'автокредит'
+  - 'получение'
+  - "много"
+  - "http"
+  - "xxxxxx"
+  - "oooo"
+  - "sllls"
+  - "если"
+  - "ssssssss"
+  - "olllllllllllllll"
+  - "8bbbb"
+  - "bbbbbbb8"
+  - "bbbbbbbbbbbbbbbb"
+  - "bbbbbbb"
+  - "8bbbbbb8"
+  - "sssssssssss"
+  - "ssssssssss"
+  - "ssssssssssssssssss"
+  - "sssssssss"
+  - "ssssssssso"
+  - "olllllls"
+  - "себе"
+  - "делаю"
+  - "╬╬╬╬╬╬╬╬"
+  - "╬╬╬╬╬╬╬"
+  - "░░░░░░░░░░░░░░"
+  - "люблю"
+  - "читаю"
+  - "многое"
+  - "slll"
+  - "прочитал"
+  - "vvvvvv"
+  - "меня"
+  - "только"
+  - "даже"
+  - "хочу"
+  - "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬"
+
+
+
+
+
+
